@@ -1,0 +1,8 @@
+dvc
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pynance
+statsmodels

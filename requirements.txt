@@ -1,8 +1,12 @@
 dvc
-numpy
+dvc_gdrive
+numpypip 1.26.4
 pandas
 matplotlib
 seaborn
 scikit-learn
 pynance
 statsmodels
+tensorflow
+keras
+pmdarima
